@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1488782693 source:e:\workspace\c++\homework\euclidean.cpp
+	<iostream>
+
+1489751803 source:e:\workspace\c++\homework\euclidean_recursive.cpp
+	<iostream>
+
+1489751803 source:e:\workspace\c++\homework\qinjiu.cpp
+	<iostream>
+
+1489751803 source:e:\workspace\c++\homework\student.cpp
+	<iostream>
+
+1489991523 source:e:\workspace\c++\homework\main.cpp
+	<iostream>
+	<stdlib.h>
+	"SqLish.h"
+
+1489388149 e:\workspace\c++\homework\hello.h
+
+1489393315 source:e:\workspace\c++\homework\zhizhen.cpp
+	<iostream>
+
+1489389084 e:\workspace\c++\homework\include\linear_list.h
+	<iostream>
+
+1489387773 source:e:\workspace\c++\homework\linearlist.cpp
+	<iostream>
+
+1489391217 source:e:\workspace\c++\homework\type.cpp
+	<iostream>
+
+1489394425 e:\workspace\c++\homework\linearlist.h
+	<iostream>
+
+1489752868 source:e:\workspace\c++\homework\1.cpp
+	<iostream>
+
+1489991315 source:e:\workspace\c++\homework\sqlist.cpp
+	<iostream>
+	<stdlib.h>
+
+1489755183 e:\workspace\c++\homework\sqlish.h
+

@@ -1,4 +1,4 @@
-## Octopress 3.0
+## Octopress 3.0飞
 
 Note: Octopress 3.0 is in development at https://github.com/octopress/octopress
 
